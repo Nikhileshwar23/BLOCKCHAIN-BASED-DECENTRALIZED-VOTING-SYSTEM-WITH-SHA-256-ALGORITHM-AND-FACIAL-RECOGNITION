@@ -75,15 +75,15 @@ The system uses two-factor authentication (2FA) with OTPs and Face recognition f
 
 ## Screenshots
 
-![Screenshot1](screenshots/Screenshot 2024-05-22 161212.png)
+![Screenshot1](screenshots/Screenshot1.png)
 
-![Screenshot2](screenshots/Screenshot 2024-05-22 161225.png)
+![Screenshot2](screenshots/Screenshot2.png)
 
-![Screenshot3](screenshots/Screenshot 2024-05-22 161233.png)
+![Screenshot3](screenshots/Screenshot3.png)
 
-![Screenshot4](screenshots/Screenshot 2024-05-22 161241.png)
+![Screenshot4](screenshots/Screenshot4.png)
 
-![Screenshot5](screenshots/Screenshot 2024-05-22 161249.png)
+![Screenshot5](screenshots/Screenshot5.png)
 
 ## Contributing
 
